@@ -12,6 +12,6 @@ TOT coding had been used by many large organizations such as SIEMENS long time a
 ----------![Capture](https://user-images.githubusercontent.com/57880343/146317447-5a596edf-3363-41f2-9e29-fee67f91ba1d.PNG)
 
 ## Notes
-It is a single HTML file which can be hosted as a web page or you can just load the page from your local drive. If you want to host the file, please be noticed that "Copy" function requires the file to be hosted with HTTPS protocol. It will not work under HTTP proticol. This applies on all web browers.
+It is a single HTML file which can be hosted as a web page or you can just load the page from your local drive. If you want to host the file, please be noticed that "Copy" function requires the file to be hosted with HTTPS protocol. It will not work under HTTP protocol. This applies to all web browers.
 
 ![](https://komarev.com/ghpvc/?username=MeCRO-DEV&color=green)
