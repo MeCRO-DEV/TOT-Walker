@@ -15,7 +15,13 @@ TOT coding had been used by many large organizations such as SIEMENS, ATOS for l
 It is a single HTML file which can be hosted as a web page or you can just load the page from your local drive. If you want to host the file, please be noticed that "Copy" function requires the file to be hosted with HTTPS protocol. It will not work under HTTP protocol. This applies to all web browers.
 
 Browser Compatibility: (Minimum version)
-{Chrome: 66} {Firefox: 63} {Edge: 79} {Opera: 63} {Safari: 13.1} {IE: NO}
+- {Chrome: 66}
+- {Firefox: 63}
+- {Edge: 79}
+- {Opera: 63}
+- {Safari: 13.1}
+- {IE: NO}
+
 For the best result, please update your browser to the latest version. Mobile browsers are not supported.
 
 ![](https://komarev.com/ghpvc/?username=MeCRO-DEV&color=green)
