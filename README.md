@@ -25,3 +25,4 @@ Browser Compatibility: (Minimum version)
 For the best result, please update your browser to the latest version. Mobile browsers are not supported.
 
 ![](https://komarev.com/ghpvc/?username=MeCRO-DEV&color=green)
+![](http://mecro.net/count.php)
